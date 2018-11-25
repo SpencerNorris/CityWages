@@ -1,0 +1,339 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Civilian employed population 16 years and over
+HC01_MOE_VC01,Total; Margin of Error; Civilian employed population 16 years and over
+HC02_EST_VC01,Male; Estimate; Civilian employed population 16 years and over
+HC02_MOE_VC01,Male; Margin of Error; Civilian employed population 16 years and over
+HC03_EST_VC01,Female; Estimate; Civilian employed population 16 years and over
+HC03_MOE_VC01,Female; Margin of Error; Civilian employed population 16 years and over
+HC04_EST_VC01,Median earnings (dollars); Estimate; Civilian employed population 16 years and over
+HC04_MOE_VC01,Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over
+HC05_EST_VC01,Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over
+HC05_MOE_VC01,Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over
+HC06_EST_VC01,Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over
+HC06_MOE_VC01,Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over
+HC01_EST_VC02,"Total; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC01_MOE_VC02,"Total; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC02_EST_VC02,"Male; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC02_MOE_VC02,"Male; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC03_EST_VC02,"Female; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC03_MOE_VC02,"Female; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC04_EST_VC02,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC04_MOE_VC02,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC05_EST_VC02,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC05_MOE_VC02,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC06_EST_VC02,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC06_MOE_VC02,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining:"
+HC01_EST_VC03,"Total; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC01_MOE_VC03,"Total; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC02_EST_VC03,"Male; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC02_MOE_VC03,"Male; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC03_EST_VC03,"Female; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC03_MOE_VC03,"Female; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC04_EST_VC03,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC04_MOE_VC03,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC05_EST_VC03,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC05_MOE_VC03,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC06_EST_VC03,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC06_MOE_VC03,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Agriculture, forestry, fishing and hunting"
+HC01_EST_VC04,"Total; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC01_MOE_VC04,"Total; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC02_EST_VC04,"Male; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC02_MOE_VC04,"Male; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC03_EST_VC04,"Female; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC03_MOE_VC04,"Female; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC04_EST_VC04,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC04_MOE_VC04,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC05_EST_VC04,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC05_MOE_VC04,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC06_EST_VC04,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC06_MOE_VC04,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Agriculture, forestry, fishing and hunting, and mining: - Mining"
+HC01_EST_VC05,Total; Estimate; Civilian employed population 16 years and over - Construction
+HC01_MOE_VC05,Total; Margin of Error; Civilian employed population 16 years and over - Construction
+HC02_EST_VC05,Male; Estimate; Civilian employed population 16 years and over - Construction
+HC02_MOE_VC05,Male; Margin of Error; Civilian employed population 16 years and over - Construction
+HC03_EST_VC05,Female; Estimate; Civilian employed population 16 years and over - Construction
+HC03_MOE_VC05,Female; Margin of Error; Civilian employed population 16 years and over - Construction
+HC04_EST_VC05,Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Construction
+HC04_MOE_VC05,Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Construction
+HC05_EST_VC05,Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Construction
+HC05_MOE_VC05,Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Construction
+HC06_EST_VC05,Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Construction
+HC06_MOE_VC05,Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Construction
+HC01_EST_VC06,Total; Estimate; Civilian employed population 16 years and over - Manufacturing
+HC01_MOE_VC06,Total; Margin of Error; Civilian employed population 16 years and over - Manufacturing
+HC02_EST_VC06,Male; Estimate; Civilian employed population 16 years and over - Manufacturing
+HC02_MOE_VC06,Male; Margin of Error; Civilian employed population 16 years and over - Manufacturing
+HC03_EST_VC06,Female; Estimate; Civilian employed population 16 years and over - Manufacturing
+HC03_MOE_VC06,Female; Margin of Error; Civilian employed population 16 years and over - Manufacturing
+HC04_EST_VC06,Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Manufacturing
+HC04_MOE_VC06,Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Manufacturing
+HC05_EST_VC06,Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Manufacturing
+HC05_MOE_VC06,Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Manufacturing
+HC06_EST_VC06,Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Manufacturing
+HC06_MOE_VC06,Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Manufacturing
+HC01_EST_VC07,Total; Estimate; Civilian employed population 16 years and over - Wholesale trade
+HC01_MOE_VC07,Total; Margin of Error; Civilian employed population 16 years and over - Wholesale trade
+HC02_EST_VC07,Male; Estimate; Civilian employed population 16 years and over - Wholesale trade
+HC02_MOE_VC07,Male; Margin of Error; Civilian employed population 16 years and over - Wholesale trade
+HC03_EST_VC07,Female; Estimate; Civilian employed population 16 years and over - Wholesale trade
+HC03_MOE_VC07,Female; Margin of Error; Civilian employed population 16 years and over - Wholesale trade
+HC04_EST_VC07,Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Wholesale trade
+HC04_MOE_VC07,Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Wholesale trade
+HC05_EST_VC07,Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Wholesale trade
+HC05_MOE_VC07,Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Wholesale trade
+HC06_EST_VC07,Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Wholesale trade
+HC06_MOE_VC07,Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Wholesale trade
+HC01_EST_VC08,Total; Estimate; Civilian employed population 16 years and over - Retail trade
+HC01_MOE_VC08,Total; Margin of Error; Civilian employed population 16 years and over - Retail trade
+HC02_EST_VC08,Male; Estimate; Civilian employed population 16 years and over - Retail trade
+HC02_MOE_VC08,Male; Margin of Error; Civilian employed population 16 years and over - Retail trade
+HC03_EST_VC08,Female; Estimate; Civilian employed population 16 years and over - Retail trade
+HC03_MOE_VC08,Female; Margin of Error; Civilian employed population 16 years and over - Retail trade
+HC04_EST_VC08,Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Retail trade
+HC04_MOE_VC08,Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Retail trade
+HC05_EST_VC08,Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Retail trade
+HC05_MOE_VC08,Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Retail trade
+HC06_EST_VC08,Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Retail trade
+HC06_MOE_VC08,Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Retail trade
+HC01_EST_VC09,"Total; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC01_MOE_VC09,"Total; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC02_EST_VC09,"Male; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC02_MOE_VC09,"Male; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC03_EST_VC09,"Female; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC03_MOE_VC09,"Female; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC04_EST_VC09,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC04_MOE_VC09,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC05_EST_VC09,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC05_MOE_VC09,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC06_EST_VC09,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC06_MOE_VC09,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities:"
+HC01_EST_VC10,"Total; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC01_MOE_VC10,"Total; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC02_EST_VC10,"Male; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC02_MOE_VC10,"Male; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC03_EST_VC10,"Female; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC03_MOE_VC10,"Female; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC04_EST_VC10,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC04_MOE_VC10,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC05_EST_VC10,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC05_MOE_VC10,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC06_EST_VC10,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC06_MOE_VC10,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Transportation and warehousing"
+HC01_EST_VC11,"Total; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC01_MOE_VC11,"Total; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC02_EST_VC11,"Male; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC02_MOE_VC11,"Male; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC03_EST_VC11,"Female; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC03_MOE_VC11,"Female; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC04_EST_VC11,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC04_MOE_VC11,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC05_EST_VC11,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC05_MOE_VC11,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC06_EST_VC11,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC06_MOE_VC11,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Transportation and warehousing, and utilities: - Utilities"
+HC01_EST_VC12,Total; Estimate; Civilian employed population 16 years and over - Information
+HC01_MOE_VC12,Total; Margin of Error; Civilian employed population 16 years and over - Information
+HC02_EST_VC12,Male; Estimate; Civilian employed population 16 years and over - Information
+HC02_MOE_VC12,Male; Margin of Error; Civilian employed population 16 years and over - Information
+HC03_EST_VC12,Female; Estimate; Civilian employed population 16 years and over - Information
+HC03_MOE_VC12,Female; Margin of Error; Civilian employed population 16 years and over - Information
+HC04_EST_VC12,Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Information
+HC04_MOE_VC12,Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Information
+HC05_EST_VC12,Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Information
+HC05_MOE_VC12,Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Information
+HC06_EST_VC12,Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Information
+HC06_MOE_VC12,Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Information
+HC01_EST_VC13,"Total; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC01_MOE_VC13,"Total; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC02_EST_VC13,"Male; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC02_MOE_VC13,"Male; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC03_EST_VC13,"Female; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC03_MOE_VC13,"Female; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC04_EST_VC13,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC04_MOE_VC13,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC05_EST_VC13,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC05_MOE_VC13,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC06_EST_VC13,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC06_MOE_VC13,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing:"
+HC01_EST_VC14,"Total; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC01_MOE_VC14,"Total; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC02_EST_VC14,"Male; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC02_MOE_VC14,"Male; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC03_EST_VC14,"Female; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC03_MOE_VC14,"Female; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC04_EST_VC14,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC04_MOE_VC14,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC05_EST_VC14,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC05_MOE_VC14,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC06_EST_VC14,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC06_MOE_VC14,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Finance and insurance"
+HC01_EST_VC15,"Total; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC01_MOE_VC15,"Total; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC02_EST_VC15,"Male; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC02_MOE_VC15,"Male; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC03_EST_VC15,"Female; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC03_MOE_VC15,"Female; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC04_EST_VC15,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC04_MOE_VC15,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC05_EST_VC15,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC05_MOE_VC15,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC06_EST_VC15,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC06_MOE_VC15,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Finance and insurance, and real estate and rental and leasing: - Real estate and rental and leasing"
+HC01_EST_VC16,"Total; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC01_MOE_VC16,"Total; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC02_EST_VC16,"Male; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC02_MOE_VC16,"Male; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC03_EST_VC16,"Female; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC03_MOE_VC16,"Female; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC04_EST_VC16,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC04_MOE_VC16,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC05_EST_VC16,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC05_MOE_VC16,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC06_EST_VC16,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC06_MOE_VC16,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services:"
+HC01_EST_VC17,"Total; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC01_MOE_VC17,"Total; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC02_EST_VC17,"Male; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC02_MOE_VC17,"Male; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC03_EST_VC17,"Female; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC03_MOE_VC17,"Female; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC04_EST_VC17,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC04_MOE_VC17,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC05_EST_VC17,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC05_MOE_VC17,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC06_EST_VC17,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC06_MOE_VC17,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Professional, scientific, and technical services"
+HC01_EST_VC18,"Total; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC01_MOE_VC18,"Total; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC02_EST_VC18,"Male; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC02_MOE_VC18,"Male; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC03_EST_VC18,"Female; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC03_MOE_VC18,"Female; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC04_EST_VC18,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC04_MOE_VC18,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC05_EST_VC18,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC05_MOE_VC18,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC06_EST_VC18,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC06_MOE_VC18,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Management of companies and enterprises"
+HC01_EST_VC19,"Total; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC01_MOE_VC19,"Total; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC02_EST_VC19,"Male; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC02_MOE_VC19,"Male; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC03_EST_VC19,"Female; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC03_MOE_VC19,"Female; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC04_EST_VC19,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC04_MOE_VC19,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC05_EST_VC19,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC05_MOE_VC19,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC06_EST_VC19,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC06_MOE_VC19,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Professional, scientific, and management, and administrative and waste management services: - Administrative and support and waste management services"
+HC01_EST_VC20,"Total; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC01_MOE_VC20,"Total; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC02_EST_VC20,"Male; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC02_MOE_VC20,"Male; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC03_EST_VC20,"Female; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC03_MOE_VC20,"Female; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC04_EST_VC20,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC04_MOE_VC20,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC05_EST_VC20,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC05_MOE_VC20,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC06_EST_VC20,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC06_MOE_VC20,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance:"
+HC01_EST_VC21,"Total; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC01_MOE_VC21,"Total; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC02_EST_VC21,"Male; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC02_MOE_VC21,"Male; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC03_EST_VC21,"Female; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC03_MOE_VC21,"Female; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC04_EST_VC21,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC04_MOE_VC21,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC05_EST_VC21,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC05_MOE_VC21,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC06_EST_VC21,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC06_MOE_VC21,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Educational services"
+HC01_EST_VC22,"Total; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC01_MOE_VC22,"Total; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC02_EST_VC22,"Male; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC02_MOE_VC22,"Male; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC03_EST_VC22,"Female; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC03_MOE_VC22,"Female; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC04_EST_VC22,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC04_MOE_VC22,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC05_EST_VC22,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC05_MOE_VC22,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC06_EST_VC22,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC06_MOE_VC22,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Educational services, and health care and social assistance: - Health care and social assistance"
+HC01_EST_VC23,"Total; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC01_MOE_VC23,"Total; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC02_EST_VC23,"Male; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC02_MOE_VC23,"Male; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC03_EST_VC23,"Female; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC03_MOE_VC23,"Female; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC04_EST_VC23,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC04_MOE_VC23,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC05_EST_VC23,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC05_MOE_VC23,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC06_EST_VC23,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC06_MOE_VC23,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services:"
+HC01_EST_VC24,"Total; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC01_MOE_VC24,"Total; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC02_EST_VC24,"Male; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC02_MOE_VC24,"Male; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC03_EST_VC24,"Female; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC03_MOE_VC24,"Female; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC04_EST_VC24,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC04_MOE_VC24,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC05_EST_VC24,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC05_MOE_VC24,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC06_EST_VC24,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC06_MOE_VC24,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Arts, entertainment, and recreation"
+HC01_EST_VC25,"Total; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC01_MOE_VC25,"Total; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC02_EST_VC25,"Male; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC02_MOE_VC25,"Male; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC03_EST_VC25,"Female; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC03_MOE_VC25,"Female; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC04_EST_VC25,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC04_MOE_VC25,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC05_EST_VC25,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC05_MOE_VC25,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC06_EST_VC25,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC06_MOE_VC25,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Arts, entertainment, and recreation, and accommodation and food services: - Accommodation and food services"
+HC01_EST_VC26,"Total; Estimate; Civilian employed population 16 years and over - Other services, except public administration"
+HC01_MOE_VC26,"Total; Margin of Error; Civilian employed population 16 years and over - Other services, except public administration"
+HC02_EST_VC26,"Male; Estimate; Civilian employed population 16 years and over - Other services, except public administration"
+HC02_MOE_VC26,"Male; Margin of Error; Civilian employed population 16 years and over - Other services, except public administration"
+HC03_EST_VC26,"Female; Estimate; Civilian employed population 16 years and over - Other services, except public administration"
+HC03_MOE_VC26,"Female; Margin of Error; Civilian employed population 16 years and over - Other services, except public administration"
+HC04_EST_VC26,"Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Other services, except public administration"
+HC04_MOE_VC26,"Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Other services, except public administration"
+HC05_EST_VC26,"Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Other services, except public administration"
+HC05_MOE_VC26,"Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Other services, except public administration"
+HC06_EST_VC26,"Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Other services, except public administration"
+HC06_MOE_VC26,"Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Other services, except public administration"
+HC01_EST_VC27,Total; Estimate; Civilian employed population 16 years and over - Public administration
+HC01_MOE_VC27,Total; Margin of Error; Civilian employed population 16 years and over - Public administration
+HC02_EST_VC27,Male; Estimate; Civilian employed population 16 years and over - Public administration
+HC02_MOE_VC27,Male; Margin of Error; Civilian employed population 16 years and over - Public administration
+HC03_EST_VC27,Female; Estimate; Civilian employed population 16 years and over - Public administration
+HC03_MOE_VC27,Female; Margin of Error; Civilian employed population 16 years and over - Public administration
+HC04_EST_VC27,Median earnings (dollars); Estimate; Civilian employed population 16 years and over - Public administration
+HC04_MOE_VC27,Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - Public administration
+HC05_EST_VC27,Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - Public administration
+HC05_MOE_VC27,Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - Public administration
+HC06_EST_VC27,Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - Public administration
+HC06_MOE_VC27,Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - Public administration
+HC01_EST_VC29,Total; Estimate; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC01_MOE_VC29,Total; Margin of Error; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC02_EST_VC29,Male; Estimate; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC02_MOE_VC29,Male; Margin of Error; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC03_EST_VC29,Female; Estimate; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC03_MOE_VC29,Female; Margin of Error; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC04_EST_VC29,Median earnings (dollars); Estimate; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC04_MOE_VC29,Median earnings (dollars); Margin of Error; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC05_EST_VC29,Median earnings (dollars) for male; Estimate; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC05_MOE_VC29,Median earnings (dollars) for male; Margin of Error; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC06_EST_VC29,Median earnings (dollars) for female; Estimate; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
+HC06_MOE_VC29,Median earnings (dollars) for female; Margin of Error; Civilian employed population 16 years and over - PERCENT IMPUTED - Industry
